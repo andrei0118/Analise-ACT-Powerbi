@@ -32,8 +32,8 @@ O projeto se propõe a oferecer uma visão abrangente das tendências histórica
 
 ## Ferramentas
 
-Microsoft Power BI
+- Microsoft Power BI
 
 ## Autor
-Andrei Camilo dos Santos
-https://www.linkedin.com/in/andrei0118-santos
+- Andrei Camilo dos Santos
+- https://www.linkedin.com/in/andrei0118-santos
