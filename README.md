@@ -1,9 +1,9 @@
 ## Empregos Formais e Estatísticas Gerais de Atividades Caractéristica de Turismo (ACT) Ouro Preto - Mg | 2006/2021
 
-## Licença  
+### Licença  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
-# Sobre o  Prejeto
+## Sobre o  Prejeto
 
 O projeto foca na análise das estatísticas de empregos formais e variáveis gerais nas Atividades Características de Turismo (ACT) na região de Ouro Preto, Minas Gerais, ao longo do período de 2006 a 2021. O objetivo central é compreender e examinar o crescimento, declínio ou tendências estáveis no setor de turismo na área específica de Ouro Preto, por meio de dados relacionados aos empregos formais e indicadores gerais.
 
@@ -25,7 +25,7 @@ O projeto se propõe a oferecer uma visão abrangente das tendências histórica
 ![relatorio_RAIS_page-0011](https://github.com/andrei0118/Analise-ACT-Powerbi/assets/75299828/fe8aa3df-3d87-489f-b3d2-b7d447d25a7a)
 ![relatorio_RAIS_page-0012](https://github.com/andrei0118/Analise-ACT-Powerbi/assets/75299828/607409e3-8d10-44ec-99d3-48e58ef9a313)
 
-# Como executar o projeto
+## Como executar o projeto
 
 - Instalar as dependencias do Microsoft Power BI.
 - Foi utilizado o banco de dados em execel.
