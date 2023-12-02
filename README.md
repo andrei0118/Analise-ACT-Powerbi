@@ -1,4 +1,4 @@
-# Empregos Formas e Estatísticas Gerais de Atividades Caractéristica de Turismo (ACT) Ouro Preto - Mg | 2006/2021
+# Empregos Formais e Estatísticas Gerais de Atividades Caractéristica de Turismo (ACT) Ouro Preto - Mg | 2006/2021
 
 ## Licença  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
