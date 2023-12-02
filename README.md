@@ -1,6 +1,15 @@
 # Empregos Formas e Estatísticas Gerais de Atividades Caractéristica de Turismo (ACT) Ouro Preto - Mg | 2006/2021
 
+## Licença  
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
+# Sobre o  Prejeto
+
+O projeto foca na análise das estatísticas de empregos formais e variáveis gerais nas Atividades Características de Turismo (ACT) na região de Ouro Preto, Minas Gerais, ao longo do período de 2006 a 2021. O objetivo central é compreender e examinar o crescimento, declínio ou tendências estáveis no setor de turismo na área específica de Ouro Preto, por meio de dados relacionados aos empregos formais e indicadores gerais.
+
+A análise contemplará uma variedade de parâmetros, tais como a criação e extinção de postos de trabalho formais, mudanças nas áreas de atuação dentro do setor de turismo, estatísticas de crescimento econômico relacionadas às atividades turísticas e quaisquer outros indicadores pertinentes. A compilação e interpretação desses dados visam fornecer insights valiosos sobre a dinâmica do turismo em Ouro Preto ao longo do período estudado.
+
+O projeto se propõe a oferecer uma visão abrangente das tendências históricas e atuais no setor de turismo na região, buscando auxiliar na compreensão de padrões, facilitando a tomada de decisões e o planejamento estratégico para iniciativas futuras relacionadas ao turismo em Ouro Preto.
 # Layouts
 
 ![relatorio_RAIS_page-0001](https://github.com/andrei0118/Analise-ACT-Powerbi/assets/75299828/81b1d07f-c5a8-4e3d-ba24-5953452dc9fc)
