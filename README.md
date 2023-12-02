@@ -10,7 +10,8 @@ O projeto foca na análise das estatísticas de empregos formais e variáveis ge
 A análise contemplará uma variedade de parâmetros, tais como a criação e extinção de postos de trabalho formais, mudanças nas áreas de atuação dentro do setor de turismo, estatísticas de crescimento econômico relacionadas às atividades turísticas e quaisquer outros indicadores pertinentes. A compilação e interpretação desses dados visam fornecer insights valiosos sobre a dinâmica do turismo em Ouro Preto ao longo do período estudado.
 
 O projeto se propõe a oferecer uma visão abrangente das tendências históricas e atuais no setor de turismo na região, buscando auxiliar na compreensão de padrões, facilitando a tomada de decisões e o planejamento estratégico para iniciativas futuras relacionadas ao turismo em Ouro Preto.
-# Layouts
+
+## Layouts
 
 ![relatorio_RAIS_page-0001](https://github.com/andrei0118/Analise-ACT-Powerbi/assets/75299828/81b1d07f-c5a8-4e3d-ba24-5953452dc9fc)
 ![relatorio_RAIS_page-0002](https://github.com/andrei0118/Analise-ACT-Powerbi/assets/75299828/d074fc7a-f89f-40cb-9d29-34d82be82537)
